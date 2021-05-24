@@ -1,3 +1,5 @@
+* WE HAVE A FORK OF THIS REPOSITORY SO WE CAN RELAX THE REQUIRED RUBY VERSION! Offically this gem requires 2.5, but this fork only requires 2.4.
+
 # Simple REST Clients for Google APIs
 
 This repository contains a set of simple client libraries for various Google APIs. These libraries are generated automatically from [Discovery Documents](https://developers.google.com/discovery), and the code generator is also hosted here in this repository.
